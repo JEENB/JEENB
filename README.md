@@ -8,7 +8,7 @@ I am currently learning 📖 and researching 🔭 in **Cryptography**, especiall
 
 My past research 📄 and work experience 🏢 include exploring tracebility in end-to-end encrypted systems. (Scroll below to see my projects)
 
-❄️ Besides that, I religiously follow Football ⚽ (ManUtd supporter) and Formula1 🚗 (Redbull fan).
+Besides that, I religiously follow Football ⚽ (ManUtd supporter) and Formula1 🚗 (Redbull fan).
 
  **Things I code with:**
  
@@ -39,12 +39,12 @@ My past research 📄 and work experience 🏢 include exploring tracebility in 
   
 </p>
  
-<!--  <p align=center>
+ <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=kubershahi&show_icons=true&theme=gotham">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=jeenb&show_icons=true&theme=gotham">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubershahi&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeenb&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
- -->
+
