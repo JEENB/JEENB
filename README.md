@@ -6,7 +6,7 @@ Welcome to my Github page!
 
 I am currently learning 📖 and researching 🔭 in **Cryptography**, especially *Zero Knowledge Proofs and end-to-end encryptions*. I am broadly interested in Machine Learning 📟 and Cryptography🔐.
 
-My past research 📄 and work experience 🏢 include tracebility in end-to-end encrypted systems, Web Development 📱. (Scroll below to see my projects)
+My past research 📄 and work experience 🏢 include exploring tracebility in end-to-end encrypted systems. (Scroll below to see my projects)
 
 ❄️ Besides that, I religiously follow Football ⚽ (ManUtd supporter) and Formula1 🚗 (Redbull fan).
 
