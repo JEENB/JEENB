@@ -4,7 +4,7 @@ Welcome to my Github page!
 
 <!-- I am a 4<sup>th</sup> year CS undergrad 💻 at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University </a> 🎓. -->
 
-I am currently learning 📖 and researching 🔭 in **Cryptography**, especially *Zero Knowledge Proofs and end-to-end encryptions*. I am broadly interested in Machine Learning 📟 and Cryptography🔐.
+I am currently learning 📖 and researching 🔭 in **Cryptography**, 
 
 My past research 📄 and work experience 🏢 include exploring tracebility in end-to-end encrypted systems. (Scroll below to see my projects)
 
