@@ -2,7 +2,7 @@
 
 Welcome to my Github page! 
 
-<!-- I am a 4<sup>th</sup> year CS undergrad 💻 at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University </a> 🎓. -->
+<!-- I am a 4<sup>th</sup> year CS undergrad 💻 at <a href="https://www.ashoka.edu.in/" target="_blank">Ashoka University </a> 🎓.
 
 I am currently learning 📖 and researching 🔭 in **Cryptography**, 
 
@@ -47,4 +47,4 @@ Besides that, I religiously follow Football ⚽ (ManUtd supporter) and Formula1 
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeenb&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
-
+ -->
